@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tushal3798/LEETCODE/tree/master/0009-palindrome-number) |
+| [1492-the-kth-factor-of-n](https://github.com/Tushal3798/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
 ## Array
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tushal3798/LEETCODE/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Tushal3798/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
