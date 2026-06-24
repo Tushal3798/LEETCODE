@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Tushal3798/LEETCODE/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Tushal3798/LEETCODE/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Tushal3798/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tushal3798/LEETCODE/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Tushal3798/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Tushal3798/LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
