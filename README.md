@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tushal3798/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Tushal3798/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Tushal3798/LEETCODE/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Tushal3798/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tushal3798/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tushal3798/LEETCODE/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tushal3798/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Tushal3798/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Tushal3798/LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Tushal3798/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Tushal3798/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushal3798/LEETCODE/tree/master/0169-majority-element) |
 ## Counting
 |  |
